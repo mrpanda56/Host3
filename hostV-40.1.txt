@@ -1,4 +1,4 @@
-#---------Mr.GrootYT-Host [V40]-----------#
+#
 #------Use groot VGH  loader else it want wark!---------#
 #<localhost>
 
