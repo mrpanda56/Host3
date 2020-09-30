@@ -1,0 +1,79 @@
+#---------Mr.GrootYT-Host [V40]-----------#
+#------Use groot VGH  loader else it want wark!---------#
+#<localhost>
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+#</localhost>
+
+#<PubgAntibanHost V40>
+# By Mr.Groot.YT
+#Telegram @mrgrootofficial
+
+119.28.183.144 download.2.1375135419.igame.gcloudcs.com
+49.51.67.236 meping.igamecj.com
+150.109.29.135 saping.igamecj.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+119.28.35.248 lobby.igamecj.com
+150.109.35.246 vnglobby.igamecj.com
+119.28.147.30 krlobby.igamecj.com
+150.109.200.70 twlobby.igamecj.com
+119.28.250.64 in.voice.gcloudcs.com
+31.13.79.18 api.facebook.com
+104.244.42.2 api.twitter.com
+104.244.42.129 twitter.com
+31.13.79.35 facebook.com
+8.8.8.8 .net
+8.8.8.8 .com
+49.51.67.236 .cn
+49.51.67.236 .cnzz
+49.51.67.236 .jp
+49.51.67.236 .pw
+49.51.67.236 .cc
+49.51.67.236 .us
+150.109.29.135 saping.igamecj.com
+169.57.193.239 pubgmobile.helpshift.com
+101.226.233.246 meping.igamecj.com
+203.205.137.242 naping.igamecj.com
+170.106.134.228 uping.igamecj.com
+125.214.166.8 hkping.igamecj.come
+211.152.148.76 file.igamecj.com.d1.download.ettdnsv.com
+172.217.6.193 lh5.googleusercontent.com
+49.51.67.236 ig-us-sdkapi.igamecj.com
+
+#</PubgAntibanHost V40>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
